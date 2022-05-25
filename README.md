@@ -1,6 +1,6 @@
 <img src="shapes.png">
 # Shapes Galore
-This Shapes Galore exercise contains code setting up multiple circles of different colors that all overlap in different ways.
+This Shapes Galore exercise contains code setting up multiple circles of different colors that all overlap in different ways. It coordinates the circles into a diamond shape as a whole.
 
 ## How To Run
 In order to run this code after cloning the repo, open shapes.html in a browser.
